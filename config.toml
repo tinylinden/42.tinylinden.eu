@@ -1,4 +1,4 @@
-baseURL = 'https://tinylinden.github.io/42'
+baseURL = 'https://42.tinylinden.eu/'
 languageCode = 'en-us'
 title = '42'
 theme = 'hyde'
