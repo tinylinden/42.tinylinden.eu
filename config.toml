@@ -1,0 +1,7 @@
+baseURL = 'https://tinylinden.github.io/42'
+languageCode = 'en-us'
+title = '42'
+theme = 'hyde'
+
+[params]
+	description = 'life, the universe and everything'
