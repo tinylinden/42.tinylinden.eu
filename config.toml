@@ -4,4 +4,5 @@ title = '42'
 theme = 'hyde'
 
 [params]
-	description = 'life, the universe and everything'
+	description = 'the answer to the ultimate question of life, the universe, and everything'
+	copyright = ' '
