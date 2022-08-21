@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = '42'
 theme = 'hyde'
 
+enableEmoji = true
+
 [params]
 	description = 'the answer to the ultimate question of life, the universe, and everything'
 	copyright = ' '
