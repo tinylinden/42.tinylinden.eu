@@ -7,7 +7,7 @@
 > the answer to the ultimate question of life, the universe, and everything
 
 Basicaly empty repo created only for testing how to set-up [GitHub Actions][gh-actions] to
-generate simple [HUGO][hugo] site, and publish it on [GitHub Pages](gh-pages) with 
+generate simple [HUGO][hugo] site, and publish it on [GitHub Pages][gh-pages] with 
 custom domain managed by [home.pl][home.pl].
 
 [gh-pages]: https://pages.github.com
