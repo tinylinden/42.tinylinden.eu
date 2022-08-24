@@ -1,10 +1,13 @@
 baseURL = 'https://42.tinylinden.eu/'
 languageCode = 'en-us'
 title = '42'
-theme = 'hyde'
+theme = 'just-me'
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 enableEmoji = true
 
 [params]
+	author = 'tinylinden'
+	author_link = '#'
 	description = 'the answer to the ultimate question of life, the universe, and everything'
 	copyright = ' '
