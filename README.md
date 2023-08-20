@@ -4,7 +4,7 @@
 
 [![Stability: Experimental](https://masterminds.github.io/stability/experimental.svg)](https://masterminds.github.io/stability/experimental.html)
 
-> the answer to the ultimate question of life, the universe, and everything
+> The Answer to the Ultimate Question of Life, the Universe, and Everything is 42
 
 Basicaly empty repo created only for testing how to set-up [GitHub Actions][gh-actions] to
 generate simple [Hugo][hugo] site, and publish it on [GitHub Pages][gh-pages] with 
